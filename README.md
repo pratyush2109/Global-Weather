@@ -23,7 +23,7 @@ current state, and from short-term to annual and forecasted weather data.
 It is used to get the current weather as well as the forecast for next few days \
 of the searched place.
 
-### `Functioning`
+### Functioning
 
 When the user tries to type in a place, the Geodb Cities API \
 is called and it tries to get the cities or town names that the user \
@@ -35,18 +35,18 @@ and it will fetch the forecast of the searched place and the same will be \
 displayed along with some other details related to weather.\
 
 
-### `Initial State of the web-app`
+### Initial State of the web-app
 
 ![Pic1](https://user-images.githubusercontent.com/39798918/179822397-cb26ca8a-79ed-4d83-b3c9-cd8c245322e8.png)
 
-### `When the user tries to search for a place`
+### When the user tries to search for a place
 
 ![Pic2](https://user-images.githubusercontent.com/39798918/179822467-37645883-a4c1-4c47-8d1a-9601051b6624.png)
 
 The probable cities/town are getting displayed once the user starts to type in the \
 city or town the user wants to search for.\
 
-### `When the user selects a place`
+### When the user selects a place
 
 ![Pic3](https://user-images.githubusercontent.com/39798918/179822606-b62cc981-f026-4a31-8c16-e9f38c4b20db.png)
 
